@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 430 128" role="img" aria-labelledby="title desc">
+  <title id="title">Hoopee</title><desc id="desc">Logo Hoopee branca</desc>
+  <g fill="none" stroke="#fff" stroke-width="17" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M27 43 C34 25 51 18 67 24 C78 28 84 39 82 51 L78 64"/>
+    <path d="M79 63 C73 75 59 80 47 76 C37 73 28 76 24 87"/>
+    <path d="M79 63 C92 72 103 76 113 69 C122 63 124 51 122 40"/>
+    <path d="M25 88 C22 100 28 110 38 111 C50 112 59 103 62 91 L65 80"/>
+  </g>
+  <text x="142" y="87" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="65" font-weight="700" letter-spacing="-2">Hoopee.</text>
+</svg>
